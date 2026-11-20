@@ -1,0 +1,16 @@
+{
+  "name": "jest-rbac-healthcare-tests",
+  "version": "1.0.0",
+  "description": "A typed Jest test suite against the rbac-healthcare-system backend, written to accompany the TypeScript for Test Automation course.",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
