@@ -36,7 +36,7 @@ This repo does **not** start the backend for you. Clone and run
 `rbac-healthcare-system` separately first:
 
 ```bash
-git clone https://github.com/codedbyabhishekc/rbac-healthcare-system
+git clone https://github.com/SypherNext/rbac-healthcare-system
 cd rbac-healthcare-system/backend
 npm install
 npm start
